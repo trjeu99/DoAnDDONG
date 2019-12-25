@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "104039253722",
+    "firebase_url": "https://uitblog-9bcff.firebaseio.com",
+    "project_id": "uitblog-9bcff",
+    "storage_bucket": "uitblog-9bcff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104039253722:android:46269fecb7ca94317747e3",
+        "android_client_info": {
+          "package_name": "com.example.aws.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104039253722-13icvvg8c5gnqit3tldhm80tpmkanqfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aws.blogapp",
+            "certificate_hash": "40d14c5af9e9f3d3b6efc2913a98c18f30aa2b1f"
+          }
+        },
+        {
+          "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvkkMX7xkhxKKfxLMhQ-D5hsCwJeWCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104039253722:android:26aaf36e51c318cb7747e3",
+        "android_client_info": {
+          "package_name": "com.example.aws.uit_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104039253722-ib019jevlg6a089k5661cm8p7i6dcg05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aws.uit_blog",
+            "certificate_hash": "40d14c5af9e9f3d3b6efc2913a98c18f30aa2b1f"
+          }
+        },
+        {
+          "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvkkMX7xkhxKKfxLMhQ-D5hsCwJeWCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104039253722:android:5b78c6b432e2ffb17747e3",
+        "android_client_info": {
+          "package_name": "com.example.uitblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104039253722-jp69t441vegdf7jltdefl7tkei11a50c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uitblog",
+            "certificate_hash": "40d14c5af9e9f3d3b6efc2913a98c18f30aa2b1f"
+          }
+        },
+        {
+          "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvkkMX7xkhxKKfxLMhQ-D5hsCwJeWCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104039253722:android:d11d17358fb867357747e3",
+        "android_client_info": {
+          "package_name": "com.rozdoum.socialcomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104039253722-rm7j9v67kp73rm16hmodr1vs0jr4cma3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rozdoum.socialcomponents",
+            "certificate_hash": "40d14c5af9e9f3d3b6efc2913a98c18f30aa2b1f"
+          }
+        },
+        {
+          "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvkkMX7xkhxKKfxLMhQ-D5hsCwJeWCdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104039253722-26n87vqd9ufgmrtn1aoa1ubair6qdptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
